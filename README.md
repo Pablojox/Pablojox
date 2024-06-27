@@ -8,7 +8,7 @@ Here are some quick insights about me:
 
 
 ### 💼 Projects
-Here you can find my portfolio with all my projects.
+[Here](https://github.com/Pablojox/portfolio-homepage/blob/main/README.md) you can find my portfolio with all my projects.
 
 
 ### 🛠️ Skills
