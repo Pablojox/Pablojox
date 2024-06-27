@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 Welcome to my profile 
-I'm Pablo, a self-taught Data Analyst and Business Intelligence enthusiast from Spain 🇪🇸.
+I'm Pablo, a self-taught Data Analyst and Business Intelligence enthusiast from Spain.
 
 Here are some quick insights about me: 
 - Healthcare background with 5 years of professional experience.
@@ -8,7 +8,7 @@ Here are some quick insights about me:
 
 
 ### 💼 Projects
-[Here](https://github.com/Pablojox/portfolio-homepage/blob/main/README.md) you can find my portfolio with all my projects.
+[HERE](https://github.com/Pablojox/portfolio-homepage/blob/main/README.md) you can find my portfolio with all my projects.
 
 
 ### 🛠️ Skills
