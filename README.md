@@ -14,7 +14,7 @@ Here are some quick insights about me:
 ### 🛠️ Skills
 - Language: Python, SQL, VBA.
 - Database: AWS DynamoDB.
-- Visualization: Power BI, Tableau
+- Visualization: Power BI, Tableau.
 
 
 ### 👋 Connect with me
