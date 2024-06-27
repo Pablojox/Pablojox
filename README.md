@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 Welcome to my profile 
-I'm Pablo, a self-taught Data Analyst and Business Intelligence enthusiast from Spain.
+I'm Pablo, a Data Analyst and Business Intelligence enthusiast from Spain.
 
 Here are some quick insights about me: 
 - Healthcare background with 5 years of professional experience.
