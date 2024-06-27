@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👨🏻‍💻 Welcome to my profile 
+I'm Pablo, a self-taught Data Analyst and Business Intelligence enthusiast from Spain 🇪🇸.
 
-<!--
-**Pablojox/Pablojox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some quick insights about me: 
+- Healthcare background with 5 years of professional experience.
+- MBA and Master's Degree in Executive Management.
+- Transition to Data Analytics in 2023.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Projects
+Here you can find my portfolio with all my projects.
+
+
+### 🛠️ Skills
+- Language: Python, SQL, VBA.
+- Database: AWS DynamoDB.
+- Visualization: Power BI, Tableau
+
+
+### 👋 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/pablo-dlt/)
