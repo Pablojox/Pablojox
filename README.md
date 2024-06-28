@@ -1,4 +1,5 @@
-## 👨🏻‍💻 Welcome to my profile 
+<h1 align='center'> 👨🏻‍💻 Welcome to my profile </h1>
+
 I'm Pablo, a Data Analyst and Business Intelligence enthusiast from Spain.
 
 Here are some quick insights about me: 
@@ -18,4 +19,6 @@ You can find my portfolio with all my projects [HERE](https://github.com/Pablojo
 
 
 ### 👋 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/pablo-dlt/)
+
+  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=Pablo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/pablo-dlt/)  [![GitHub followers](https://img.shields.io/github/followers/Pablojox.svg?label=Follow%20@Pablojox&style=social)](https://github.com/Pablojox/)
+
