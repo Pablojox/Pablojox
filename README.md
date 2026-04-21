@@ -1,23 +1,45 @@
-<h1 align='center'> 👨🏻‍💻 Welcome to my profile </h1>
-<hr>
+<h1 align="center">Hi, I'm Pablo 👋</h1>
+<p align="center">
+  <strong>CTO | Software Architect | Senior Tech Lead | Full Stack Developer</strong>
+</p>
 
-I'm Pablo, a Data Analyst and Business Intelligence enthusiast from Spain.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
 
-Here are some quick insights about me: 
-- Healthcare background with 5 years of professional experience.
-- MBA and Master's Degree in Executive Management.
-- Transitioned to Data Analytics in 2023.
+---
 
+### 🚀 About Me
 
-### 💼 Projects
-You can find my portfolio with all my projects [HERE](https://github.com/Pablojox/portfolio-homepage/blob/main/README.md).
+Transforming complex business challenges into scalable digital solutions. With a background that merges **Executive Management (MBA)** and **Deep Technical Expertise**, I bridge the gap between business strategy and high-level engineering.
 
+- 🛠️ **Current Focus:** CTO of my own venture & Software Architecture.
+- 👨‍💻 **Freelance Expert:** Acting as Tech Lead, Senior Data Engineer, and BI Consultant for global clients.
+- 🏗️ **Architectural Philosophy:** Scalability, Cloud-Native solutions, and Data-Driven decision making.
+- 🇪🇸 Based in Spain, working globally.
 
-### 🛠️ Skills
-- Language: Python, SQL, VBA.
-- Database: AWS DynamoDB.
-- Visualization: Power BI, Tableau.
+---
 
+### 🛠️ Tech Stack & Ecosystem
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, Go, SQL |
+| **Full Stack** | React, Next.js, NestJS |
+| **Cloud & Infra** | AWS (DynamoDB, Lambda, S3), Docker, Microservices |
+| **Data Engineering** | Senior BI Consulting, Advanced ETLs, Data Modeling |
+| **Architecture** | System Design, Cloud Architecture, DevOps Patterns |
+
+---
+
+### 📈 Evolution
+- **Today:** CTO, Architect & Full Stack Expert.
+- **2023 - 2024:** Senior Data Engineer & Tech Lead.
+- **The Pivot:** Transitioned from 5 years in Healthcare & Executive Management to Tech Excellence.
+
+---
 
 ### 👋 Connect with Me
 <p align="center">
